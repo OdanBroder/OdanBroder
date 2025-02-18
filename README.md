@@ -17,7 +17,7 @@ I'm Duc Anh, a passionate cybersecurity enthusiast specializing in binary exploi
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OdanBroder&show_icons=true&theme=radical)
 
 ## 🛠️ Tools and Technologies
 
