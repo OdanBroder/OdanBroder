@@ -1,57 +1,28 @@
-# Hello! 👋
+<h1 align="center">Hi 👋, I'm Duc Anh</h1>
+<h3 align="center">A passionate cybersecurity enthusiast specializing in binary exploitation (pwn) and web security. Welcome to my GitHub profile!</h3>
 
-I'm Duc Anh, a passionate cybersecurity enthusiast specializing in binary exploitation (pwn) and web security. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odanbroder&label=Profile%20views&color=0e75b6&style=flat" alt="odanbroder" /> </p>
 
-## 🔭 Current Projects
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odanbroder" alt="odanbroder" /></a> </p>
 
-- **Capture The Flag (CTF) Challenges:**  
-  Actively participating in CTFs to enhance my problem-solving skills and deepen my understanding of various vulnerabilities. Check out my [CTFTime profile](https://ctftime.org/user/186566) for more details.
+- 🌱 I’m currently learning **pwn, rev, web,..**
 
-## 🌱 Learning Objectives
+- 📝 I regularly write articles on [odanbroder.github.io](https://odanbroder.github.io/)
 
-- **Binary Exploitation:**  
-  Engaging with platforms like Pwn College, Dreamhack, Root Me, and Pwnable.tw to master binary exploitation techniques.
+- ⚡ Fun fact **As a die-hard Naruto movie aficionado, I embody the unwavering spirit of the ninja way, embracing the series' themes of persistence, determination, and self-belief.**
 
-- **Web Security:**  
-  Studying common web vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF) to bolster my penetration testing skills.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dducanh129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dducanh129" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/duc-anh-doan-67abb0333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duc-anh-doan-67abb0333" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/odanbroder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="odanbroder" height="30" width="40" /></a>
+</p>
 
-## 📈 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OdanBroder&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OdanBroder&show_icons=true&locale=en&layout=compact&theme=radical" alt="odanbroder" /></p>
 
-## 🛠️ Tools and Technologies
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OdanBroder&show_icons=true&locale=en&theme=radical" alt="odanbroder" /></p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![IDA](https://img.shields.io/badge/IDA-1F1F1F?style=for-the-badge&logo=ida&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white)
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/duc-anh-doan-67abb0333/)
-- [Twitter](https://x.com/dducanh129)
-- [Personal Blog](https://odanbroder.github.io/)
-
-*Feel free to reach out for collaboration or discussion on cybersecurity topics!*
-
----
-
-  
-<!--
-**OdanBroder/OdanBroder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OdanBroder&" alt="odanbroder" /></p>
