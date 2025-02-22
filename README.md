@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OdanBroder&show_icons=true&locale=en&theme=radical" alt="odanbroder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OdanBroder&" alt="odanbroder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OdanBroder" alt="odanbroder" /></p>
