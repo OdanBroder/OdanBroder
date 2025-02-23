@@ -10,6 +10,7 @@
 
 - 📝 I regularly write articles on [odanbroder.github.io](https://odanbroder.github.io/)
 
+
 - ⚡ Fun fact **As a die-hard Naruto movie aficionado, I embody the unwavering spirit of the ninja way, embracing the series' themes of persistence, determination, and self-belief.**
 
 <h3 align="left">Connect with me:</h3>
